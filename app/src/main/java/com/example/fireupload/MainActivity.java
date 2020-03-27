@@ -43,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
 
     private StorageReference mStorageRef;
     private DatabaseReference mDatabaseRef;
-
     private StorageTask mUploadTask;
 
     @Override
